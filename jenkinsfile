@@ -16,6 +16,7 @@ pipeline {
 			   git props['git-repo']
 			   
                bat props['mvn_cmd']
+	        publishHTML([allowMissing: false, alwaysLinkToLastBuild: false, keepAll: false, reportDir: 'target/karate-reports', reportFiles: 'karate-summary.html', reportName: 'Karate Report', reportTitles: ''])
                }
             }
 
