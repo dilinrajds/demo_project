@@ -1,0 +1,22 @@
+{
+	"key1": [
+		{
+			"name": "sushma",
+			"age": 23
+		},
+		{
+			"name": "sky",
+			"age": 24
+		}
+	],
+	"key2": [
+		{
+			"name": "sushma",
+			"age": 23
+		},
+		{
+			"name": "sky",
+			"age": 24
+		}
+	]
+}

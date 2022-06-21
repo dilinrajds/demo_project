@@ -1,0 +1,46 @@
+{"EPOgetMemberDetails":
+
+{
+"member":
+{
+"memberName":{"firstName":"James","lastName":"HOLDEN","middleName":"W"},
+"mrn":"13954440",
+"address":{"streetAddress1":"1111 OWENS DR","city":"PLEASANTON","state":"OR","zipCode":"94588"},
+"homePhone":{"areaCode":"987","number":"123456"},
+"creditCard":{"lastFourDigits":"2254","expirationDate":"09\/25","type":"VH",
+"cardHolderName":{"firstName":"SILPA","middleName":"we","lastName":"NAIDU"}
+}
+},
+"responseCode":"00"
+},
+"PharmacyMemberDetail":
+{
+"member":
+{
+"mrn":"0013954440",
+"name":{"firstName":"FP","middleName":"W","lastName":"HOLDEN"}
+},
+"lastUsedAddress":{"streetAddress1":"1111 OWENS DR","streetAddress2":null,"city":"PLEASANTON","state":"OR","zipCode":"94588","singleUse":null},
+"homePhone":{"areaCode":"987","number":"123456"},
+"creditCard":
+{
+"cardHolderName":
+{
+"firstName":"SILPA","middleName":"we","lastName":"NAIDU"
+},
+"pciToken":null,
+"walletPaymentToken":null,
+"expiryDate":"09\/25",
+"last4Digit":"2254",
+"cardType":"VH",
+"oneTimeUse":false,
+"zipCode":null
+},
+"respCorridHeaderNames":
+{
+"respCorridHeaderName": "mosmemberdetailscorrid1",
+"respGuidHeaderName": "100223524"
+}
+},
+"Headers":{"Header":{"corrid":"mosmemberdetailscorrid1","guid":100223524}}
+}

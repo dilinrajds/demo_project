@@ -1,0 +1,8 @@
+{
+	"getJson": "file:../../../Documents/Data/sampleJsonData.json",
+	"javascriptStandAlone": "file:../../../Documents/Data/javascript.js",
+	"Uipath": "../../../Documents/Data/Uipath1.bat",
+	"UFTScript": "../../../Documents/Data/uftScript.bat",
+	"commonDatacsv": "file:../../../Documents/Data/commonData.csv",
+	"assertionJsonInput": "file:../../../Documents/Data/assertionJsonInput.json"
+}

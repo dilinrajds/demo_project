@@ -1,0 +1,18 @@
+{
+	"jsonResponse1":
+	{
+		"name": "james",
+		"age": 20
+	},
+	"jsonResponse2":
+	{
+		"name": "holly",
+		"age": 20
+	},
+	"jsonResponse3":
+	{
+		"name": "land",
+		"age": 20
+	}
+	
+}

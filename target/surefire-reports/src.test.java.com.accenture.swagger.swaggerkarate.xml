@@ -1,0 +1,7 @@
+<testsuite failures="0" name="src/test/java/com/accenture/swagger/swaggerkarate.feature" skipped="0" tests="1" time="0.482218">
+  <testcase classname="src.test.java.com.accenture.swagger.swaggerkarate" name="1" time="0.482218">
+    <system-out>* def doTesting = Java.type('com.accenture.swagger.Reader') ............... passed
+* def swagger = doTesting.startSwagger() .................................. passed
+* print swagger ........................................................... passed</system-out>
+  </testcase>
+</testsuite>
