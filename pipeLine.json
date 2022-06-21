@@ -1,0 +1,4 @@
+{
+	"git-repo" : "https://github.com/dilinrajds/demo_project.git",
+	"mvn_cmd" : "mvn test -Dtest=TestRunner"
+}
